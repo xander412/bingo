@@ -2,12 +2,12 @@
 Online multiplayer bingo game using sockets.
 
 # Dependencies:
-  ## | PyQt5
-  ## | socekts
-  ## | threading
-  ## | sys
+  ### | PyQt5
+  ### | sockets
+  ### | threading
+  ### | sys
 
 
 # Credits : 
- ## | 1. Gudditi Manjunath
- ## | 2. Chintha SivaPrasad
+ ### | 1. Gudditi Manjunath
+ ### | 2. Chintha SivaPrasad
